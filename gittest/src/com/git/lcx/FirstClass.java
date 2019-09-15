@@ -5,4 +5,7 @@ public class FirstClass {
         System.out.print("22222222");
         System.out.print("22222222");
     }
+    public void testme(){
+        System.out.print("222");
+    }
 }
